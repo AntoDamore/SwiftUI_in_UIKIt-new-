@@ -1,4 +1,4 @@
-*Integrate SwiftUI View in UIkit📲*
+*Integrate SwiftUI View in UIKit📲*
 ==================
 This repository was created as a Frontend project @ Apple Developer Academy | Naples. Embed a SwiftUI View as an entire scene could be usefull for
 people that are able only to use SwiftUI and need to integrate it in a project made with UIkit.
